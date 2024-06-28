@@ -178,12 +178,12 @@
 // asterico+="* "
 // }
 
-15
+// 15
 
-let asterico = "* * * * *"
-for (let i=5; i >=1; i--){
+// let asterico = "* * * * *"
+// for (let i=5; i >=1; i--){
 
-console.log (asterico);
+// console.log (asterico);
 
-asterico = asterico.substring(0, asterico.length -2)
-}
+// asterico = asterico.substring(0, asterico.length -2)
+// }
