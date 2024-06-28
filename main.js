@@ -160,3 +160,6 @@
 // console.log(numeroMenor); 
 
 
+console.log(1)
+
+
