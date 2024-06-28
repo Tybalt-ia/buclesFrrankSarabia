@@ -160,6 +160,30 @@
 // console.log(numeroMenor); 
 
 
-console.log(1)
+// 13
+// if (juegoJugador1 =1 &juegoJugador2 ==3 || juegoJugador1 ==2 &juegoJugador2 ==1 ||juegoJugador1 ==
+// 3 &&juegoJugador2 ==2){
+// console.log ("Felicitaciones Gano el jugador 1 "+jugador1);
+//  } else if (juegoJugador2 ==1 &juegoJugador1 ==3 || juegoJugador2 ==2 &juegoJugador1 ==1 ||
+// juegoJugador2 ==3 &&juegoJugador1 ==2) {
+// console.log("Felicitaciones Gano el jugador 2 "+jugador2);
+// }else{
+// console.log("Empataron");
+// }
 
+// 14
+// let asterico ="* "
+// for (let i = 1; i <=5;i++) {
+// console.log(asterico);
+// asterico+="* "
+// }
 
+15
+
+let asterico = "* * * * *"
+for (let i=5; i >=1; i--){
+
+console.log (asterico);
+
+asterico = asterico.substring(0, asterico.length -2)
+}
